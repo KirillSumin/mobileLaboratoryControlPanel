@@ -1,0 +1,3 @@
+[submodule "mobileLaboratoryConfigMaker"]
+	path = mobileLaboratoryConfigMaker
+	url = git@github.com:KirillSumin/mobileLaboratoryConfigMaker
